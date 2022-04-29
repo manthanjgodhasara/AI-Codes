@@ -79,3 +79,26 @@ while len(open) > 0 :
   print('OPEN LIST -> ', open)
   print('CLOSED LIST -> ', closed)
   print('VISITED -> ', visited)
+  
+  
+  '''
+  1-5
+  2-3
+  3-4
+  4-2
+  5-6
+  6-0
+  
+  1 2 1
+  1 6 10
+  2 4 1
+  2 3 2
+  3 5 5
+  4 5 3
+  4 6 4
+  5 6 2
+  
+  1
+  6
+  '''
+  
