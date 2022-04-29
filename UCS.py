@@ -55,6 +55,7 @@ print('\nCOST =',smallest)
 '''
 7
 10
+
 1 2 5
 1 4 3
 2 3 1
@@ -65,4 +66,7 @@ print('\nCOST =',smallest)
 4 6 2
 5 7 4
 6 7 3
+
+1
+7
 '''
