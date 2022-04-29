@@ -39,7 +39,6 @@ def hill_climb(curr_state, landscape):
     ascended = False
     next_state = curr_state
     for neighbour in neighbours: 
-        (2,6)
         if landscape[neighbour[0]][neighbour[1]] > landscape[next_state[0]][next_state[1]]:
             next_state = neighbour
             ascended = True
